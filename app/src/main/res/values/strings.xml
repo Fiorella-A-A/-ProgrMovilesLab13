@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Servicio_Web_V4</string>
+    <string name="urlAPI">http://192.168.23.226:3000</string>
+</resources>
